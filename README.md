@@ -12,8 +12,4 @@ A binary file will be exported for this driver and tray type for use with future
 This script can be run with or without parameters.  If run without parameters, a menu will walk the user through creating print queues one printer at a time. 
 
 
-Author: 
-Mitch Duff
-mitch@evaporatehealthcare.com
-317-509-7681 
-(contact me with questions or suggestions)
+Author:  Mitch Duff | mitch@evaporatehealthcare.com (contact me with questions or suggestions)
